@@ -14,7 +14,7 @@ import java.util.UUID;
 @Setter
 @Getter
 @Entity
-@Table(name = "Usuario")
+@Table(name = "Usuarios")
 public class User implements Serializable {
 
     @Id

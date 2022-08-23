@@ -1,7 +1,6 @@
 package com.ciandt.mymusic.services.impl;
 
 
-import com.ciandt.mymusic.models.Playlist;
 import com.ciandt.mymusic.repositories.PlaylistRepository;
 import com.ciandt.mymusic.services.PlayListService;
 import com.ciandt.mymusic.services.dtos.PlaylistDTO;
